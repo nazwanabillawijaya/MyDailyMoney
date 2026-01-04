@@ -42,10 +42,10 @@ Pengembangan aplikasi dimulai dengan pembuatan fitur inti berupa pencatatan pema
 ## 👥 Tim Pengembang
 <div align="center">
 
-<img src="assets/nanas.png" width="120"/>
-<img src="assets/zalfa.png" width="120"/>
+<img src="assets/nanas.jpg" width="120"/>
+<img src="assets/zalfa.jpg" width="120"/>
 <img src="assets/nunu.png" width="120"/>
-<img src="assets/daffa.png" width="120"/>
+<img src="assets/daffa.jpg" width="120"/>
 
 <br><br>
 
